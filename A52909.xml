@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new declaration of the citizens of London to the Lord General Monck in Scotland sent post to His Excellency, by order from the Common Council : with His Excellencies answer and further resolution brought post on Saturday last to the city, and proposals to the people touching the Parliament and nation.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52909</idno>
+            <idno type="STC">Wing N610A</idno>
+            <idno type="STC">ESTC R28723</idno>
+            <idno type="EEBO-CITATION">10745985</idno>
+            <idno type="OCLC">ocm 10745985</idno>
+            <idno type="VID">45632</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52909)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45632)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1407:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new declaration of the citizens of London to the Lord General Monck in Scotland sent post to His Excellency, by order from the Common Council : with His Excellencies answer and further resolution brought post on Saturday last to the city, and proposals to the people touching the Parliament and nation.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century --  Sources.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45632:1"/>
+            <pb facs="tcp:45632:1" rendition="simple:additions"/>
+            <p>A NEVV DECLARATION OF THE CITIZENS OF LONDON TO THE LORD General Monck <hi>IN</hi> SCOTLAND, Sent Poſt to his Excellency, by Order from the Common Council.</p>
+            <p>VVith his Excellencies Anſwer, and further Reſolution, brought Poſt on Saturday laſt to the City; And Propoſals to the people, touching the Parliament and Nation.</p>
+            <p>LONDON, Printed for <hi>G. Horton,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:45632:2"/>
+            <pb n="3" facs="tcp:45632:2"/>
+            <head>A <hi>DECLARATION</hi> OF THE City of LONDON:</head>
+            <p>THe Lord General <hi>Monck</hi> having received a Letter from the Lord Mayor, Aldermen and Common Council of the City of <hi>London,</hi> wherein they declared their cordial Concurrence with his Honour, in diſowning the Au<g ref="char:EOLhyphen"/>thors of that Force, who interrupted the Parliament, and ra<g ref="char:EOLhyphen"/>viſhed the Birth-Right of theſe Nations, by daring to null and make void Acts of Parliament, hoping to contribute ſomewhat (by Gods bleſſing) in their Councils, and Actions, to the pre<g ref="char:EOLhyphen"/>venting of the ſaid conſequences of that exorbitant preſumpti<g ref="char:EOLhyphen"/>on. Declaring further, That they fully and intirely comply with his Honour, in aſſerting the Authority and Freedom of Parliament; a National Miniſtery, for the enlightning of the ignorant, and ſuppreſſing of Atheiſme; and the peoples juſt Rights and Liberties; Reſolving by Gods Aſſiſtance, to perſiſt faithfully and rigorouſly in this good Cauſe. This was com<g ref="char:EOLhyphen"/>municated to his Excellency on <hi>Wedneſday</hi> laſt, by the City Sword-Bearer, who went Poſt with it, by Order from a Com<g ref="char:EOLhyphen"/>mon Council held at <hi>Guild-Hall, London;</hi> And upon reading thereof, his Excellency the Lord General <hi>Monck,</hi> returned
+<pb n="4" facs="tcp:45632:3"/>Thanks to the City, for their pious and noble Reſolutions, to appear at ſuch an E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igent, to be inſtrumental with him, to aſ<g ref="char:EOLhyphen"/>ſert and vindicate the greateſt Intereſts of theſe Nations, both Religious and Civil. And that he is reſolved to acquieſce and center with the Parliament, and ſtand by them in their juſt Rights, Liberties, and Freedom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <div type="part">
+               <head>
+                  <hi>Thurſday</hi> Jan. 5.</head>
+               <p>
+                  <hi>Ordered,</hi> That a Letter be written to Lieut. Gen. <hi>Ludlow,</hi> Col. <hi>John Jones,</hi> and Mr. <hi>Miles Corbet,</hi> forthwith to give their attendance on the Parliament (as alſo unto Col. <hi>Tomlinſon</hi>) and to give the Parliament an account of their management of the affaires in <hi>Ireland,</hi> and ordered that the Letter be ſigned and ſealed by the Speaker.</p>
+               <p>
+                  <hi>Ordered,</hi> That it be referred to the Council of State, to con<g ref="char:EOLhyphen"/>ſider how the Civil and Authoritative power in <hi>Ireland</hi> may be ſetled.</p>
+               <p>
+                  <hi>Ordered,</hi> That the Council of State do conſider how the Army in Ireland ſhall be governed, and what Commiſſioners are fitting for the government thereof, and to report their opinion therein to the Parliament.</p>
+               <p>
+                  <hi>Reſolved,</hi> That this Houſe doth approve of what hath been done by Sir <hi>Hardreſſe Waller,</hi> Sir <hi>Charles Coot,</hi> and Sir <hi>Theophi<g ref="char:EOLhyphen"/>lus Jones,</hi> and other the Officers of the Army in <hi>Ireland</hi> for the ſervice of the Parliament, and that a Letter of thanks be ſent unto them for their good ſervice done for the Parliament.</p>
+               <p>
+                  <hi>Reſolved,</hi> That upon the whole matter of the report touch<g ref="char:EOLhyphen"/>ing abſent Members, the Parliament doth adjudge and declare, that the Members who ſtand diſcharged from voting or ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing as Members of this Houſe, in the years 1648, or 1649, do ſtand duly diſcharged by Judgement of Parliament, from ſitting as Members of this preſent Parliament, during this Parliament: And it is ordered that Writs do iſſue forth to Elect new ones in their places.</p>
+               <p>
+                  <hi>Ordered,</hi> That the ſeveral caſes of the Lord <hi>Fairfax</hi> and Sir <hi>Anthony Aſhley-Cooper,</hi> be referred unto the Committee unto whom abſent Members was referred, to examine matters of Fact, with power to ſend for witneſſes, and to examine them
+<pb n="5" facs="tcp:45632:3"/>touching the ſame; and to make their report with their opinion touching the reſpective caſes to the Parliament. And alſo or<g ref="char:EOLhyphen"/>dered, that the caſes of Mr. <hi>Nathaniel</hi> and <hi>Francis Bacon,</hi> be re<g ref="char:EOLhyphen"/>ferred to the ſame Committee to examine, <hi>&amp;c.</hi> and report the ſame to the Parliament forthwith.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>From York, Jan.</hi> 2.</head>
+               <p>Yeſterday morning Major <hi>Smithſon</hi> and the Iriſh Brigade did meet the Lord <hi>Fairfax,</hi> and ſeveral of the Gentry of theſe parts at <hi>Heſſen-Moore,</hi> where ſeveral perſons which had been in Arms againſt the Parliament, and then proteſted againſt, were diſmiſ<g ref="char:EOLhyphen"/>ſed: as the Duke of <hi>Buckingham</hi> and ſeveral others: after which they marched towards <hi>York,</hi> and drew up before <hi>Mickle-gate<g ref="char:EOLhyphen"/>bar,</hi> demanding the Rendition thereof to them. Col. <hi>Lilburn</hi> and ſome Forces who were within, having conſulted of the meſſage, agreed the following Declaration, and ſent it to the Forces without, with this <hi>proviſo,</hi> that ſuch as would ſign it, ſhould be admitted: which being done, the City was deliver<g ref="char:EOLhyphen"/>ed up, the Iriſh Brigade marching in, the reſt retiring to their ſe<g ref="char:EOLhyphen"/>verall places of aboad.</p>
+            </div>
+            <div type="part">
+               <head>THE DECLARATION.</head>
+               <p>
+                  <hi>We do declare to adhere to this preſent Parliament, as it conſiſts of the Members that ſat the tenth of</hi> October <hi>now laſt past, againſt a King or any other ſingle Perſon whatſoever: and that this City of</hi> York <hi>ſhall be preſerved for, and delivered to whomſoever the ſaid Parliament ſhall Authorize, and appoint to keep it for their uſe.</hi>
+               </p>
+               <closer>
+                  <salute>Subſcribed</salute>
+                  <signed>ROB. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ILBURNE &amp;c.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:45632:4"/>
+               <p>In the next place, I ſhall proceed to offer ſome few Queries to the conſideration of all Parties, that take themſelves to be concerned in the peace and proſperity of <hi>England,</hi> and ſubmit all to the conſideration of the unprejudiced Reader.</p>
+               <p n="1">I. Whether it be by any rational man ſuppoſed, That the <hi>Kings</hi> of <hi>England,</hi> as <hi>ſingle perſons,</hi> had their <hi>power</hi> and <hi>magi<g ref="char:EOLhyphen"/>ſtracy</hi> by the <hi>immediate deſignation of God?</hi>
+               </p>
+               <p n="2">II. Whether (if not by <hi>Gods immediate appointment</hi>) it was not attained by <hi>force</hi> or <hi>fraud,</hi> or conferred upon them by <hi>mu<g ref="char:EOLhyphen"/>tuall compact</hi> and <hi>agreement</hi> for <hi>ſociety</hi> and <hi>ſafety ſake?</hi>
+               </p>
+               <p n="3">III. Whether (if ſo conferred) the <hi>people conferring</hi> was not the <hi>ſupreme Authority?</hi>
+               </p>
+               <p n="4">IV. Whether it can, upon any principles of Reaſon, be ima<g ref="char:EOLhyphen"/>gined, That the <hi>people,</hi> thus ſenſible of the benefit of <hi>Society,</hi> and in order thereto making choice of ſuch a <hi>form</hi> of <hi>command</hi> and <hi>ſubjection,</hi> did not alſo by ſome <hi>equal rules</hi> ballance the <hi>power,</hi> to prevent <hi>Tyranny</hi> in their <hi>King,</hi> and <hi>ſlavery</hi> to <hi>them</hi> and their <hi>poſterities?</hi>
+               </p>
+               <p n="5">V. Whether (if the <hi>power</hi> were attained by <hi>force</hi> or <hi>fraud,</hi> al<g ref="char:EOLhyphen"/>though for a time the people for neceſſity ſake do ſubmit) may they not throw off that <hi>Yoke,</hi> and recover their <hi>freedoms</hi> if by any meanes they can?</p>
+               <p n="6">VI. Whether, in caſe of compact, the <hi>King</hi> taking upon him the <hi>Government,</hi> upon Condition of <hi>performance,</hi> and that upon <hi>oath</hi> ſolemnly taken in the preſence of the <hi>people,</hi> he ſhall notwithſtanding, act according to <hi>Will</hi> and not <hi>Law,</hi> thereby rendring that which was intended for the <hi>common good,</hi> a <hi>com<g ref="char:EOLhyphen"/>mon miſchief;</hi> I ſay, whether in this caſe the people are tied up to a <hi>ſlaviſh, ſervile Obedience,</hi> and left without all manner of re<g ref="char:EOLhyphen"/>medy, either of <hi>diveſting</hi> him of that <hi>Authority,</hi> or of <hi>calling</hi> him to an <hi>account,</hi> or <hi>judging him</hi> by the ſaid <hi>compact</hi> and <hi>agree<g ref="char:EOLhyphen"/>ment;</hi> and if ſo, upon what principles of <hi>Reaſon</hi> or <hi>Prudence</hi> could they ſubmit to ſuch a <hi>ſlavery?</hi>
+               </p>
+               <pb n="7" facs="tcp:45632:4"/>
+               <p n="7">VII. Whether, if the people may call their <hi>King,</hi> or <hi>ſupreme Magiſtrate</hi> to an account, they may not elect another, or chooſe and eſtabliſh any other <hi>form of Government,</hi> to them appearing moſt conducible to their <hi>ſafety?</hi>
+               </p>
+               <p n="8">VIII. Whether any <hi>Government</hi> be more likely to anſwer the great ends of the people, than when their <hi>Laws</hi> are made by their <hi>Repreſentatives equally elected</hi> and <hi>limited,</hi> as to the <hi>ex<g ref="char:EOLhyphen"/>erciſe</hi> of that <hi>power,</hi> ſo that he that <hi>commands</hi> this year, ſhall taſte of <hi>ſubjection</hi> the next, and therefore will be careful how he en<g ref="char:EOLhyphen"/>tails <hi>ſlavery</hi> upon <hi>himſelf</hi> and <hi>posterity;</hi> the Law binding all a<g ref="char:EOLhyphen"/>like, and not ſaying, Thou ſhalt not <hi>kill</hi> but I may, <hi>but whoſoe<g ref="char:EOLhyphen"/>ver ſheddeth mans blood, by man ſhall his blood be ſhed;</hi> and ſo in all other caſes?</p>
+               <p n="9">IX. Whether the <hi>preſent Parliament</hi> be not the moſt likely perſons to eſtabliſh a <hi>Government</hi> upon the moſt <hi>equal Principles</hi> of <hi>Freedom,</hi> that have ſo frequently declared for it, ſo zealouſly conteſted againſt <hi>Tyranny,</hi> even unto the <hi>blood</hi> of the <hi>Tyrant,</hi> and remain ſo ſolemnly engaged to <hi>God</hi> and <hi>man,</hi> both by their own <hi>Declarations, Promiſes</hi> and <hi>Principles,</hi> according to the beſt of their judgements to accompliſh it, and that as a teſtimony of their thankfulneſs for the <hi>eminent deliverances</hi> that <hi>God</hi> hath given them in their endeavours to obtain it?</p>
+               <p n="10">X. Whether the <hi>diſcontents</hi> of the people, and endeavouring to bring in a Family, that, it is to be feared, <hi>God</hi> hath ſet his face againſt for <hi>evil,</hi> may not onely provoke God to deal with <hi>Eng<g ref="char:EOLhyphen"/>land</hi> as with <hi>Iſrael</hi> of old, <hi>and give them a King in his wrath,</hi> but alſo bring a judgement of <hi>war</hi> upon this <hi>Nation,</hi> with the miſe<g ref="char:EOLhyphen"/>ries accrewing; and then, when it is too late, men will wiſh for that peace, which now is ſo irkſom and troubleſom?</p>
+               <p n="11">XI. Whether, if the <hi>preſent Parliament</hi> had a deſire (as is pretended) <hi>to perpetuate their Power,</hi> the hair-braind actions of the generality of the preſent Generation, doth not treat a real occaſion, it not being ſafe to truſt <hi>unskilful riders</hi> with ſuch <hi>Wild Aſses?</hi>
+               </p>
+               <pb n="8" facs="tcp:45632:5"/>
+               <p n="12">
+                  <hi>XII.</hi>Whether, (if notwithſtanding) the preſent Parliament, through the bleſſing of God, ſhall attain the <hi>deſsred end of peace and freedom,</hi> by the ſettlement of ſucceſſive Repreſentatives, and make due proviſion for the equal diſtribution of Juſtice, and having eſtabliſhed this Nation upon a ſure <hi>baſis</hi> or <hi>form</hi> of <hi>Go<g ref="char:EOLhyphen"/>vernment,</hi> as a <hi>Common-wealth,</hi> ſhall in ſome convenient time diſſolve themſelves; whether, <hi>I</hi> ſay, moſt perſons in <hi>England</hi> will not have juſt cauſe to take ſhame to themſelves for the ſlan<g ref="char:EOLhyphen"/>ders, reproches, interruptions and hard Thoughts they have harboured againſt their faithful Patriots, who, maugre all diffi<g ref="char:EOLhyphen"/>culties, have been ſupported in their ſpirits to proſecute their <hi>work,</hi> reſting upon the <hi>righteous judgement of God,</hi> and not va<g ref="char:EOLhyphen"/>luing the threats or tumultuary diſturbances of contrary minded men?</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45632:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
